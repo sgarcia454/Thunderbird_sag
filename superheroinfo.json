@@ -1,0 +1,12 @@
+{
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "preferredName": "Spiderman",
+    "email": "spiderman@lewisu.edu",
+    "phoneNumber": "914-376-0193",
+    "city": "New York City",
+    "state": "NY",
+    "zip": "10013",
+    "seatLocation": "",
+    "favoriteHobby": "Fighting crime and making quips"
+}
